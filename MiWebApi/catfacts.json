@@ -1,0 +1,44 @@
+{
+  "Data": [
+    {
+      "Fact": "Unlike dogs, cats do not have a sweet tooth. Scientists believe this is due to a mutation in a key taste receptor.",
+      "Length": 114
+    },
+    {
+      "Fact": "When a cat chases its prey, it keeps its head level. Dogs and humans bob their heads up and down.",
+      "Length": 97
+    },
+    {
+      "Fact": "The technical term for a cat\u2019s hairball is a \u201Cbezoar.\u201D",
+      "Length": 54
+    },
+    {
+      "Fact": "A group of cats is called a \u201Cclowder.\u201D",
+      "Length": 38
+    },
+    {
+      "Fact": "A cat can\u2019t climb head first down a tree because every claw on a cat\u2019s paw points the same way. To get down from a tree, a cat must back down.",
+      "Length": 142
+    },
+    {
+      "Fact": "Cats make about 100 different sounds. Dogs make only about 10.",
+      "Length": 62
+    },
+    {
+      "Fact": "Every year, nearly four million cats are eaten in Asia.",
+      "Length": 55
+    },
+    {
+      "Fact": "There are more than 500 million domestic cats in the world, with approximately 40 recognized breeds.",
+      "Length": 100
+    },
+    {
+      "Fact": "Approximately 24 cat skins can make a coat.",
+      "Length": 43
+    },
+    {
+      "Fact": "While it is commonly thought that the ancient Egyptians were the first to domesticate cats, the oldest known pet cat was recently found in a 9,500-year-old grave on the Mediterranean island of Cyprus. This grave predates early Egyptian art depicting cats by 4,000 years or more.",
+      "Length": 278
+    }
+  ]
+}
